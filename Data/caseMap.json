@@ -310,5 +310,26 @@
         ],
         "status" : [ "確認中", "入院" ],
         "credibility" : "確定"
+    },
+    "129" : {
+        "process" : {
+            "20200221" : "発熱、咳",
+            "20200222" : "医療機関Cを受診",
+            "20200223" : "自家用車で市立札幌病院を受診し、検体採取。札幌市衛生研究所にて検査を実施し、本日未明に陽性が判明"
+        },
+        "activity" : {
+            "20200221" : { "pos": "札幌市" },
+            "20200222" : { "pos": "札幌市" },
+            "20200223" : { "pos": "市立札幌病院" }
+        },
+        "description" : "患者の濃厚接触者について調査中、渡航歴はなし",
+        "confirmedLink" : [
+            "http://www.pref.hokkaido.lg.jp/hf/kth/kak/singatakoronahaienkannjya27-28rere.pdf", 
+            "http://www.pref.hokkaido.lg.jp/hf/kth/kak/hasseijoukyou.htm#jump.2/24", 
+            "https://www3.nhk.or.jp/news/html/20200224/k10012299161000.html"
+        ],
+        "status" : [ "確認中", "入院" ],
+        "credibility" : "確定"
     }
 }
+
